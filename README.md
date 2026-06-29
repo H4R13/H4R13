@@ -10,7 +10,13 @@
 - Linux
 - Network Security
 - Automation
-- Threat Detection<br><br>I'm building Rain-Tux, a personal project that brings Rainmeter-style desktop customization to Linux (Wayland, GNOME, KDE Plasma, Hyprland, Sway). Coded in Python, it lets you seamlessly use .rmskin files on Linux—think endless skins, right on your desktop.<br><br>Open to collaborating on innovative projects that spark ideas for the future. Especially seeking hands on Rain-Tux—it's a complex side project in testing, and fresh perspectives would rock.<br><br><img width="1077" height="1183" alt="image" src="https://github.com/user-attachments/assets/6cfcc100-203d-4adc-892f-6dc41c3905d6" />
+- Threat Detection<br><br>I'm building Rain-Tux, a personal project that brings Rainmeter-style desktop customization to Linux (Wayland, GNOME, KDE Plasma, Hyprland, Sway). Coded in Python, it lets you seamlessly use .rmskin files on Linux—think endless skins, right on your desktop.<br><br>Open to collaborating on innovative projects that spark ideas for the future. Especially seeking hands on Rain-Tux—it's a complex side project in testing, and fresh perspectives would rock.<br><br>Currently learning:
+
+- SOC Operations
+- Linux Administration
+- Threat Detection
+- Python Automation
+- Network Security
 <br><br>Got an intriguing idea? DM me!<br><br>
 
 
