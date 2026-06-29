@@ -1,5 +1,5 @@
 # Presenting ME:
-**Building Linux | Automation | Cybersecurity Projects | SEIM**
+**Building Linux | Automation | Cybersecurity Projects | SIEM**
 
 *Currently building Rain-Tux and expanding hands-on SOC skills.*
 
@@ -21,7 +21,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arthurpendragon9240) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v1k704_hashmat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Mysterious-Gas7192)  [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/V1k704) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viktor_hashmat@outlook.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arthurpendragon9240) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/V1k704) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viktor_hashmat@outlook.com) 
 
 # 💻 Tech Stack:
 
